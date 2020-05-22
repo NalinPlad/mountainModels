@@ -1,2 +1,2 @@
-# mountainModels
-Some mountain model made in blender with the BlenderGIS add-on
+# mountain models
+Some mountains model made in blender with the BlenderGIS add-on
